@@ -1,2 +1,2 @@
 # delta
-alt bot al lui sclavu de marian void
+bot al lui sclavu de marian void
